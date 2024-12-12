@@ -1,0 +1,31 @@
+.breadcrumb {
+    display: flex;
+  }
+  
+  .breadcrumb-item {
+    font-size: 1rem;
+    color: #4575bd;
+    
+  }
+  
+  .breadcumb-separator {
+    margin: 0 0.5rem;
+  }
+  
+  .breadcumb-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .breadcumb-small .breadcumb-item {
+    font-size: 0.75rem;
+  }
+  
+  .breadcumb-medium .breadcumb-item {
+    font-size: 1rem;
+  }
+  
+  .breadcumb-large .breadcumb-item {
+    font-size: 1.25rem;
+  }
+  
